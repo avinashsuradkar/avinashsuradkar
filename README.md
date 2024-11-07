@@ -8,7 +8,7 @@
 ---
 
 ### 🔭 Currently Working On:
-- **Book Recommender System**
+- **Deep learning concepts**
 
 ---
 
