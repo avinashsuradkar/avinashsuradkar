@@ -2,7 +2,7 @@
 
 ## Passionate Data Scientist | Machine Learning Developer | AI Enthusiast
 
-Welcome to my GitHub! I'm a **Machine Learning Developer** with a passion for **deep learning**, **data science**, and **AI technologies**. I specialize in building intelligent systems, and I enjoy solving complex challenges through data and innovation. Feel free to explore my repositories and projects.
+Welcome to my GitHub! I am a **Machine Learning Developer** focused on solving complex problems through data-driven insights and deep learning. I am passionate about AI technologies, and I love building intelligent systems to tackle real-world challenges. Feel free to explore my repositories and projects.
 
 ---
 
@@ -51,8 +51,8 @@ Welcome to my GitHub! I'm a **Machine Learning Developer** with a passion for **
 ### 🏆 **GitHub Highlights:**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avinashsuradkar&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinashsuradkar&theme=radical" alt="Streak Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=avinashsuradkar&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" alt="GitHub Stats" width="48%" style="max-width: 48%; margin: 5px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinashsuradkar&theme=radical" alt="Streak Stats" width="48%" style="max-width: 48%; margin: 5px" />
 </p>
 
 ---
@@ -81,11 +81,7 @@ If you’re passionate about **machine learning**, **AI**, or **data science**, 
 
 ---
 
-**"Building AI solutions that empower tomorrow, today."** 🚀
-
----
-
-### 🌐 **Visit My Kaggle Profile**:
+### 🌐 **Visit My Kaggle Profile:**
 <p align="center">
   <a href="https://www.kaggle.com/avinashsuradkar" target="_blank">
     <button style="padding: 10px 20px; font-size: 16px; background-color: #20BEFF; color: white; border: none; border-radius: 5px; cursor: pointer;">
@@ -93,4 +89,3 @@ If you’re passionate about **machine learning**, **AI**, or **data science**, 
     </button>
   </a>
 </p>
-
