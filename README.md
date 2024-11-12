@@ -1,18 +1,19 @@
 # Avinash Suradkar 👋
 
-## Passionate Data Scientist | Machine Learning Developer | AI Enthusiast
+## **Passionate Data Scientist | Machine Learning Developer | AI Enthusiast**
 
-Welcome to my GitHub! I am a **Machine Learning Developer** focused on solving complex problems through data-driven insights and deep learning. I am passionate about AI technologies, and I love building intelligent systems to tackle real-world challenges. Feel free to explore my repositories and projects.
-
----
-
-### 📍 **Currently Working On:**
-- **Deep Learning Research**: Exploring advanced neural network architectures like transformers, GANs, and reinforcement learning.
-- **AI for Real-World Applications**: Implementing ML solutions for real-time systems and industry-specific problems.
+Welcome to my GitHub! I am a **Machine Learning Developer** with a passion for solving complex problems using **AI**, **deep learning**, and **data science** techniques. Explore my repositories to see my work, Kaggle submissions, and collaborations.
 
 ---
 
-### 🤝 **Connect With Me:**
+### 📍 **Currently Exploring:**
+- **Deep Learning**: Advanced neural networks and reinforcement learning.
+- **AI in Healthcare**: Using AI to solve real-world challenges in the healthcare domain.
+- **Data Science**: Working on Kaggle datasets, competitions, and learning new methodologies.
+
+---
+
+### 🤝 **Let's Connect:**
 <p align="center">
   <a href="https://github.com/avinashsuradkar" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -48,44 +49,39 @@ Welcome to my GitHub! I am a **Machine Learning Developer** focused on solving c
 
 ---
 
-### 🏆 **GitHub Highlights:**
+### 🏆 **GitHub Stats:**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avinashsuradkar&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" alt="GitHub Stats" width="48%" style="max-width: 48%; margin: 5px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinashsuradkar&theme=radical" alt="Streak Stats" width="48%" style="max-width: 48%; margin: 5px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=avinashsuradkar&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" alt="GitHub Stats" width="48%" style="margin: 5px; border-radius: 10px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinashsuradkar&theme=radical" alt="Streak Stats" width="48%" style="margin: 5px; border-radius: 10px;"/>
 </p>
 
 ---
 
-### 🚀 **Key Skills & Expertise:**
+### 🚀 **Core Competencies:**
 
-<p align="center">
-  <a href="https://www.python.org" target="_blank">Python</a> • 
-  <a href="https://www.tensorflow.org" target="_blank">TensorFlow</a> • 
-  <a href="https://pytorch.org/" target="_blank">PyTorch</a> • 
-  <a href="https://scikit-learn.org/" target="_blank">Scikit-Learn</a> • 
-  <a href="https://pandas.pydata.org/" target="_blank">Pandas</a> • 
-  <a href="https://seaborn.pydata.org/" target="_blank">Seaborn</a>
-</p>
+- **Machine Learning**: Supervised & unsupervised learning, regression, classification.
+- **Deep Learning**: Neural networks, CNN, RNN, transformers, reinforcement learning.
+- **Data Engineering**: Data wrangling, feature engineering, preprocessing.
+- **AI & NLP**: Natural language processing, text analysis.
 
 ---
 
 ### 🌱 **Learning & Growing:**
-- Continuously improving my expertise in **Deep Learning** and exploring new fields like **AI for healthcare** and **self-supervised learning**.
-- Actively participating in **Kaggle competitions**, side projects, and contributing to **open-source ML projects**.
+I am continuously expanding my knowledge of **deep learning** frameworks and applying them to **real-world AI applications**. I enjoy solving **Kaggle competitions**, **collaborating on open-source projects**, and exploring new methods to advance **AI research**.
 
 ---
 
-### 📍 **Let’s Collaborate!**
-If you’re passionate about **machine learning**, **AI**, or **data science**, feel free to reach out. I’m always open to collaborating on exciting projects and solving new challenges!
-
----
-
-### 🌐 **Visit My Kaggle Profile:**
+### 📍 **Explore My Kaggle Profile:**
 <p align="center">
   <a href="https://www.kaggle.com/avinashsuradkar" target="_blank">
-    <button style="padding: 10px 20px; font-size: 16px; background-color: #20BEFF; color: white; border: none; border-radius: 5px; cursor: pointer;">
-      Visit My Kaggle Profile
+    <button style="padding: 12px 30px; font-size: 16px; background-color: #20BEFF; color: white; border: none; border-radius: 30px; cursor: pointer; font-weight: bold; transition: 0.3s;">
+      View My Kaggle Profile
     </button>
   </a>
 </p>
+
+<p align="center">
+  <i style="color: gray;">"Let’s connect, learn, and grow together in the field of AI and data science!"</i>
+</p>
+
