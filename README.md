@@ -13,18 +13,19 @@ Welcome to my GitHub! I am a **Machine Learning Developer** with a passion for s
 
 ---
 
-### 🤝 **Let's Connect:**
+### 🤝 **Let’s Connect:**
+
 <p align="center">
-  <a href="https://github.com/avinashsuradkar" target="_blank">
+  <a href="https://github.com/avinashsuradkar" target="_blank" aria-label="GitHub Profile">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://x.com/AvinashEEML" target="_blank">
+  <a href="https://x.com/AvinashEEML" target="_blank" aria-label="Twitter Profile">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://www.kaggle.com/avinashsuradkar" target="_blank">
+  <a href="https://www.kaggle.com/avinashsuradkar" target="_blank" aria-label="Kaggle Profile">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
-  <a href="https://www.linkedin.com/in/avinash-suradkar-aa8385219/" target="_blank">
+  <a href="https://www.linkedin.com/in/avinash-suradkar-aa8385219/" target="_blank" aria-label="LinkedIn Profile">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -32,6 +33,7 @@ Welcome to my GitHub! I am a **Machine Learning Developer** with a passion for s
 ---
 
 ### 💻 **Technologies & Tools:**
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
@@ -73,6 +75,7 @@ I am continuously expanding my knowledge of **deep learning** frameworks and app
 ---
 
 ### 📍 **Explore My Kaggle Profile:**
+
 <p align="center">
   <a href="https://www.kaggle.com/avinashsuradkar" target="_blank">
     <button style="padding: 12px 30px; font-size: 16px; background-color: #20BEFF; color: white; border: none; border-radius: 30px; cursor: pointer; font-weight: bold; transition: 0.3s;">
