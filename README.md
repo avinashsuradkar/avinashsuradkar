@@ -2,7 +2,7 @@
 
 ## **Passionate Data Scientist | Machine Learning Developer | AI Enthusiast**
 
-Welcome to my GitHub! I am a **Machine Learning Developer** with a passion for solving complex problems using **AI**, **deep learning**, and **data science** techniques. Explore my repositories to see my work, Kaggle submissions, and collaborations.
+Welcome to my GitHub! I am a **Machine Learning Enthusiast** with a passion for solving complex problems using **AI**, **deep learning**, and **data science** techniques. Explore my repositories to see my work, Kaggle submissions, and collaborations.
 
 ---
 
